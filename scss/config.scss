@@ -1,0 +1,45 @@
+// Imports
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+// Fonts
+$main-font: 'Outfit', sans-serif;
+
+// Colors
+$blue: hsl(216, 95%, 58%);
+$blue-dark-color: hsl(218, 44%, 22%);
+$blue-gray-color: hsl(220, 15%, 55%);
+$gray-color: hsl(212, 45%, 89%);
+$white-color: hsl(0, 0%, 100%);
+
+body {
+    background: $gray-color;
+    font-family: $main-font;
+}
+
+footer {
+    margin-top:10%;
+    text-align: center;
+    color: $blue-gray-color;
+}
+
+// Text
+h1 {
+    font-family: $main-font;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 32px;
+    color: $blue-dark-color;
+    margin-bottom: 16px;
+}
+
+p {
+    font-family: $main-font;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 24px;
+    color: $blue-gray-color;
+}
+
+a {
+    color: $blue;
+}
