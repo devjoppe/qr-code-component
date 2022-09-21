@@ -6,6 +6,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot - Design
 
-| Specification      | My solution |
+| Specification | My solution |
 | ----------- | ----------- |
-| Header      | ![My solution](/images/my_solution.png "My solution")      |
+| ![Specification](/design/specification.png "Specification") | ![My solution](/design/my_solution.png "My solution") |
