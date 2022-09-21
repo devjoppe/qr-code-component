@@ -8,4 +8,4 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 | Specification      | My solution |
 | ----------- | ----------- |
-| Header      | (/images/mysolution.png)       |
+| Header      | ![My solution](/images/my_solution.png "My solution")      |
