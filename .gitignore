@@ -5,9 +5,9 @@
 *.sketch
 *.fig
 
-## This is what I want to ignore right now. ##
 README-FM.md
 README-template-FM.md
+
 style-guide.md
 prepros.config
 
