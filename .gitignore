@@ -10,6 +10,7 @@ README-FM.md
 README-template-FM.md
 style-guide.md
 .gitignore
+prepros.config
 
 # Avoid accidental XD upload if you convert the design file
 ###############################################
