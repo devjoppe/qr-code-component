@@ -23,7 +23,7 @@ footer {
 }
 
 // Text
-h1 {
+h2 {
     font-family: $main-font;
     font-weight: 700;
     font-size: 1.6rem;
@@ -42,4 +42,8 @@ p {
 
 a {
     color: $blue;
+}
+
+.v-none {
+    display: none;
 }
